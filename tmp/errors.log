@@ -298,3 +298,219 @@
 =================
 [2018-11-15 17:42:06] Текст ошибки: Call to undefined method ishop\App::setProperty() | Файл: W:\domains\shop.loc\app\controllers\AppController.php | Строка: 16
 =================
+[2018-11-15 19:29:00] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:29:00] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2018-11-15 19:32:31] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:32:32] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:32:32] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:32:32] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:32:32] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:32:33] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:32:33] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:32:33] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:32:33] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:32:39] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:32:40] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:32:40] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:32:40] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:32:40] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:32:40] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:32:41] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:32:48] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 11
+=================
+[2018-11-15 19:32:48] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 11
+=================
+[2018-11-15 19:32:49] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 11
+=================
+[2018-11-15 19:32:49] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 11
+=================
+[2018-11-15 19:32:49] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 11
+=================
+[2018-11-15 19:32:49] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 11
+=================
+[2018-11-15 19:33:14] Текст ошибки: syntax error, unexpected 'require' (T_REQUIRE), expecting function (T_FUNCTION) or const (T_CONST) | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 8
+=================
+[2018-11-15 19:33:15] Текст ошибки: syntax error, unexpected 'require' (T_REQUIRE), expecting function (T_FUNCTION) or const (T_CONST) | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 8
+=================
+[2018-11-15 19:33:15] Текст ошибки: syntax error, unexpected 'require' (T_REQUIRE), expecting function (T_FUNCTION) or const (T_CONST) | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 8
+=================
+[2018-11-15 19:33:15] Текст ошибки: syntax error, unexpected 'require' (T_REQUIRE), expecting function (T_FUNCTION) or const (T_CONST) | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 8
+=================
+[2018-11-15 19:33:15] Текст ошибки: syntax error, unexpected 'require' (T_REQUIRE), expecting function (T_FUNCTION) or const (T_CONST) | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 8
+=================
+[2018-11-15 19:33:54] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 10
+=================
+[2018-11-15 19:33:55] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 10
+=================
+[2018-11-15 19:33:55] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 10
+=================
+[2018-11-15 19:33:56] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 10
+=================
+[2018-11-15 19:34:12] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 10
+=================
+[2018-11-15 19:34:12] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 10
+=================
+[2018-11-15 19:34:13] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 10
+=================
+[2018-11-15 19:34:13] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 10
+=================
+[2018-11-15 19:34:28] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:34:28] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:34:28] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:34:29] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:34:29] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:34:29] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:34:29] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:34:29] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:34:30] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:35:00] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:35:00] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:35:01] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:35:01] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:35:01] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:35:01] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 19:35:01] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 20:21:01] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 20:21:56] Текст ошибки: syntax error, unexpected '/' | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 10
+=================
+[2018-11-15 20:21:57] Текст ошибки: syntax error, unexpected '/' | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 10
+=================
+[2018-11-15 20:21:57] Текст ошибки: syntax error, unexpected '/' | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 10
+=================
+[2018-11-15 20:21:57] Текст ошибки: syntax error, unexpected '/' | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 10
+=================
+[2018-11-15 20:21:58] Текст ошибки: syntax error, unexpected '/' | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 10
+=================
+[2018-11-15 20:22:02] Текст ошибки: syntax error, unexpected '/' | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 10
+=================
+[2018-11-15 20:22:02] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 13
+=================
+[2018-11-15 20:22:02] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 13
+=================
+[2018-11-15 20:22:19] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 20:22:20] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 20:22:20] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 20:22:20] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 20:23:04] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 11
+=================
+[2018-11-15 20:23:05] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 11
+=================
+[2018-11-15 20:23:05] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 11
+=================
+[2018-11-15 20:23:05] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 11
+=================
+[2018-11-15 20:23:05] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 11
+=================
+[2018-11-15 20:23:06] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 11
+=================
+[2018-11-15 20:23:35] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 11
+=================
+[2018-11-15 20:23:35] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 11
+=================
+[2018-11-15 20:23:35] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 11
+=================
+[2018-11-15 20:23:50] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 20:23:51] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 20:23:51] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 20:23:52] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 20:23:52] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 20:23:52] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 20:23:52] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 20:23:52] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 20:23:53] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 20:23:56] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 20:24:06] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 20:24:07] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 20:24:07] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 20:24:08] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 20:24:08] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 12
+=================
+[2018-11-15 20:24:28] Текст ошибки: syntax error, unexpected 'class' (T_CLASS) | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 6
+=================
+[2018-11-15 20:24:29] Текст ошибки: syntax error, unexpected 'class' (T_CLASS) | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 6
+=================
+[2018-11-15 20:24:29] Текст ошибки: syntax error, unexpected 'class' (T_CLASS) | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 6
+=================
+[2018-11-15 20:24:29] Текст ошибки: syntax error, unexpected 'class' (T_CLASS) | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 6
+=================
+[2018-11-15 20:24:29] Текст ошибки: syntax error, unexpected 'class' (T_CLASS) | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 6
+=================
+[2018-11-15 20:24:30] Текст ошибки: syntax error, unexpected 'class' (T_CLASS) | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 6
+=================
+[2018-11-15 20:24:30] Текст ошибки: syntax error, unexpected 'class' (T_CLASS) | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 6
+=================
+[2018-11-15 20:24:30] Текст ошибки: syntax error, unexpected 'class' (T_CLASS) | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 6
+=================
+[2018-11-15 20:24:31] Текст ошибки: syntax error, unexpected 'class' (T_CLASS) | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 6
+=================
+[2018-11-15 20:24:31] Текст ошибки: syntax error, unexpected 'class' (T_CLASS) | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 6
+=================
+[2018-11-15 20:24:31] Текст ошибки: syntax error, unexpected 'class' (T_CLASS) | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 6
+=================
+[2018-11-15 20:24:31] Текст ошибки: syntax error, unexpected 'class' (T_CLASS) | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 6
+=================
+[2018-11-15 20:24:31] Текст ошибки: syntax error, unexpected 'class' (T_CLASS) | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 6
+=================
+[2018-11-15 20:24:32] Текст ошибки: syntax error, unexpected 'class' (T_CLASS) | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 6
+=================
+[2018-11-15 20:24:35] Текст ошибки: syntax error, unexpected 'class' (T_CLASS) | Файл: W:\domains\ishop.loc\vendor\ishop\core\Db.php | Строка: 6
+=================
+[2018-11-15 20:28:46] Текст ошибки: syntax error, unexpected 'namespace' (T_NAMESPACE) | Файл: W:\domains\ishop.loc\vendor\ishop\core\rb.php | Строка: 2
+=================
+[2018-11-15 20:28:46] Текст ошибки: syntax error, unexpected 'namespace' (T_NAMESPACE) | Файл: W:\domains\ishop.loc\vendor\ishop\core\rb.php | Строка: 2
+=================
+[2018-11-15 20:28:59] Текст ошибки: syntax error, unexpected 'namespace' (T_NAMESPACE) | Файл: W:\domains\ishop.loc\vendor\ishop\core\rb.php | Строка: 2
+=================
