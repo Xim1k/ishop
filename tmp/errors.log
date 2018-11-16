@@ -526,3 +526,11 @@
 =================
 [2018-11-16 13:44:23] Текст ошибки: syntax error, unexpected ''test'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' | Файл: W:\domains\ishop.loc\app\views\layouts\watches.php | Строка: 69
 =================
+[2018-11-16 17:48:41] Текст ошибки: syntax error, unexpected '}' | Файл: W:\domains\ishop.loc\app\widgets\menu\Menu.php | Строка: 66
+=================
+[2018-11-16 18:17:48] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2018-11-16 18:17:51] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2018-11-16 18:18:44] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
