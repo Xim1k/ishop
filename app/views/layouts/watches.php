@@ -20,7 +20,7 @@
             <div class="col-md-6 top-header-left">
                 <div class="drop">
                     <div class="box">
-                        <select tabindex="4" class="dropdown drop">
+                        <select id='currency' tabindex="4" class="dropdown drop">
                             <?
                              new app\widgets\currency\Currency();
                             ?>
@@ -306,6 +306,7 @@
 
     });
 </script>
+<script src="js/main.js"></script>
 <!--End-slider-script-->
 </body>
 </html>

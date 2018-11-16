@@ -514,3 +514,5 @@
 =================
 [2018-11-15 20:28:59] Текст ошибки: syntax error, unexpected 'namespace' (T_NAMESPACE) | Файл: W:\domains\ishop.loc\vendor\ishop\core\rb.php | Строка: 2
 =================
+[2018-11-16 12:41:42] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\app\controllers\CurrencyController.php | Строка: 17
+=================

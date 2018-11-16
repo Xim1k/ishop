@@ -34,7 +34,7 @@ class Currency
     }
 
     public static function getCurrency($currencies){
-        if(!isset($_COOKIE['currency']) && array_key_exists($_COOKIE['currency'], $currencies)){
+        if(isset($_COOKIE['currency']) && array_key_exists($_COOKIE['currency'], $currencies)){
             $key = $_COOKIE['currency'];
         } else {
             $key = key($currencies);
