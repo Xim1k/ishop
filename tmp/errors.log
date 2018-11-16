@@ -516,3 +516,13 @@
 =================
 [2018-11-16 12:41:42] Текст ошибки: Class 'R' not found | Файл: W:\domains\ishop.loc\app\controllers\CurrencyController.php | Строка: 17
 =================
+[2018-11-16 13:44:21] Текст ошибки: syntax error, unexpected ''test'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' | Файл: W:\domains\ishop.loc\app\views\layouts\watches.php | Строка: 69
+=================
+[2018-11-16 13:44:22] Текст ошибки: syntax error, unexpected ''test'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' | Файл: W:\domains\ishop.loc\app\views\layouts\watches.php | Строка: 69
+=================
+[2018-11-16 13:44:22] Текст ошибки: syntax error, unexpected ''test'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' | Файл: W:\domains\ishop.loc\app\views\layouts\watches.php | Строка: 69
+=================
+[2018-11-16 13:44:23] Текст ошибки: syntax error, unexpected ''test'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' | Файл: W:\domains\ishop.loc\app\views\layouts\watches.php | Строка: 69
+=================
+[2018-11-16 13:44:23] Текст ошибки: syntax error, unexpected ''test'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' | Файл: W:\domains\ishop.loc\app\views\layouts\watches.php | Строка: 69
+=================
