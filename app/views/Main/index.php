@@ -54,17 +54,17 @@
                             <h3><a href="product/<?=$hit->alias;?>"><?=$hit->title;?></a>></h3>
                             <p>Explore Now</p>
                             <h4>
-                                <a class="add-to-cart-link" href="cart/add?id=<?=$hit->id;?>"><i></i></a> <span class=" item_price"><?=$curr['symbol_left'].' ';?><?=$hit->price * $curr['value'];?><?=' '.$curr['symbol_right'];?></span>
+                                <a class="add-to-cart-link" href="cart/add?id=<?=$hit->id;?>"><i></i></a> <span class=" item_price"><?=$curr['symbol_left'];?><?=$hit->price * $curr['value'];?><?=$curr['symbol_right'];?></span>
                                 <?if($hit->old_price):?>
                                 <small><del><?=$hit->old_price * $curr['value'];?></del></small>
                                 <?endif;?>
+                                <?if($hit->old_price):?>
+                                    <div class="srch">
+                                        <span>-<?=round(100-((($hit->price)/($hit->old_price))*100));?>%</span>
+                                    </div>
+                                <?endif;?>
                             </h4>
                         </div>
-                        <?if($hit->old_price):?>
-                        <div class="srch">
-                            <span>-<?=round(100-((($hit->price)/($hit->old_price))*100));?>%</span>
-                        </div>
-                        <?endif;?>
                     </div>
                 </div>
                 <?endforeach;?>

@@ -1,8 +1,8 @@
-a:2:{s:4:"data";s:1202:"<li>
+a:2:{s:4:"data";s:1147:"<li>
     <a href="category/men">Men</a>
             <ul>
             <li>
-    <a href="category/elektronnye">Электронные</a>
+    <a href="category/elektronnye">Electronic</a>
             <ul>
             <li>
     <a href="category/casio">Casio</a>
@@ -13,7 +13,7 @@ a:2:{s:4:"data";s:1202:"<li>
         </ul>
     </li>
 <li>
-    <a href="category/mehanicheskie">Механические</a>
+    <a href="category/mechanical">Mechanical</a>
             <ul>
             <li>
     <a href="category/royal-london">Royal London</a>
@@ -32,7 +32,7 @@ a:2:{s:4:"data";s:1202:"<li>
     <a href="category/women">Women</a>
             <ul>
             <li>
-    <a href="category/elektronnye-11">Электронные</a>
+    <a href="category/elektronnye-11">Electronic</a>
             <ul>
             <li>
     <a href="category/adriatica">Adriatica</a>
@@ -40,7 +40,7 @@ a:2:{s:4:"data";s:1202:"<li>
         </ul>
     </li>
 <li>
-    <a href="category/mehanicheskie-12">Механические</a>
+    <a href="category/mehanicheskie-12">Mechanical</a>
             <ul>
             <li>
     <a href="category/anne-klein">Anne Klein</a>
@@ -52,4 +52,4 @@ a:2:{s:4:"data";s:1202:"<li>
 <li>
     <a href="category/kids">Kids</a>
     </li>
-";s:8:"end_time";i:1542391717;}
+";s:8:"end_time";i:1542650676;}

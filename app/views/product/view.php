@@ -3,8 +3,7 @@
     <div class="container">
         <div class="breadcrumbs-main">
             <ol class="breadcrumb">
-                <li><a href="<?=PATH;?>">Home</a></li>
-                <li class="active">Single</li>
+                <?=$breadcrumbs;?>
             </ol>
         </div>
     </div>
@@ -19,15 +18,17 @@
                     <div class="col-md-5 single-top-left">
                         <div class="flexslider">
                             <ul class="slides">
-                                <li data-thumb="images/s-1.jpg">
-                                    <div class="thumb-image"> <img src="images/s-1.jpg" data-imagezoom="true" class="img-responsive" alt=""/> </div>
+                                <?if($gallery):?>
+                                <?foreach ($gallery as $item):?>
+                                <li data-thumb="images/<?=$item->img;?>">
+                                    <div class="thumb-image"> <img src="images/<?=$item->img;?>" data-imagezoom="true" class="img-responsive" alt=""/> </div>
                                 </li>
-                                <li data-thumb="images/s-2.jpg">
-                                    <div class="thumb-image"> <img src="images/s-2.jpg" data-imagezoom="true" class="img-responsive" alt=""/> </div>
+                                <?endforeach;?>
+                                <?else:?>
+                                <li data-thumb="images/no_image.jpg">
+                                    <div class="thumb-image"> <img src="images/no_image.jpg" data-imagezoom="true" class="img-responsive" alt=""/> </div>
                                 </li>
-                                <li data-thumb="images/s-3.jpg">
-                                    <div class="thumb-image"> <img src="images/s-3.jpg" data-imagezoom="true" class="img-responsive" alt=""/> </div>
-                                </li>
+                                <?endif;?>
                             </ul>
                         </div>
                         <!-- FlexSlider -->
@@ -53,7 +54,7 @@
                                 <div class="clearfix"> </div>
                             </div>
 
-                            <h5 class="item_price"><?=$curr['symbol_left'].' ';?><?=$product->price * $curr['value'];?><?=' '.$curr['symbol_right'];?>
+                            <h5 class="item_price"><?=$curr['symbol_left'];?><?=$product->price * $curr['value'];?><?=$curr['symbol_right'];?>
                                 <?if($product->old_price):?>
                                     <small><del><?=$product->old_price * $curr['value'];?></del></small>
                                 <?endif;?>
@@ -65,18 +66,12 @@
                                 <ul>
                                     <li>Color
                                         <select>
-                                            <option>Silver</option>
-                                            <option>Black</option>
-                                            <option>Dark Black</option>
-                                            <option>Red</option>
-                                        </select></li>
-                                    <li class="size-in">Size<select>
-                                            <option>Large</option>
-                                            <option>Medium</option>
-                                            <option>small</option>
-                                            <option>Large</option>
-                                            <option>small</option>
-                                        </select></li>
+                                            <option>Select color</option>
+                                            <?foreach($mods as $mod):?>
+                                                <option value="<?=$mod->id;?>" data-title="<?=$mod->title;?>" data-price="<?=$mod->price*$curr['value'];?>"><?=$mod->title;?></option>
+                                            <?endforeach;?>
+                                        </select>
+                                    </li>
                                     <div class="clearfix"> </div>
                                 </ul>
                             </div>
@@ -132,50 +127,59 @@
                         </li>
                     </ul>
                 </div>
+                <?if($related):?>
                 <div class="latestproducts">
+                    <h3>Recommended products</h3>
+                    <?foreach($related as $item):?>
                     <div class="product-one">
                         <div class="col-md-4 product-left p-left">
                             <div class="product-main simpleCart_shelfItem">
-                                <a href="single.html" class="mask"><img class="img-responsive zoom-img" src="images/p-1.png" alt="" /></a>
+                                <a href="single.html" class="mask"><img class="img-responsive zoom-img" src="images/<?=$item['img'];?>" alt="" /></a>
                                 <div class="product-bottom">
-                                    <h3>Smart Watches</h3>
+                                    <h3><a href="product/<?=$item['alias'];?>"><?=$item['title'];?></a></h3>
                                     <p>Explore Now</p>
-                                    <h4><a class="item_add" href="#"><i></i></a> <span class=" item_price">$ 329</span></h4>
+                                    <h4><a class="item_add add-to-cart-link" href="cart/add?id=<?=$item['id'];?>" data-id="<?=$item['id'];?>"><i></i></a> <span class=" item_price"><?=$curr['symbol_left'].' ';?><?=$item['price'] * $curr['value'];?><?=' '.$curr['symbol_right'];?></span></h4>
                                 </div>
-                                <div class="srch">
-                                    <span>-50%</span>
-                                </div>
+                                <?if($item['old_price']):?>
+                                    <small><del><?=$item['old_price']* $curr['value'];?></del></small>
+                                <?endif;?>
+                                <?if($item['old_price']):?>
+                                    <div class="srch">
+                                        <span>-<?=round(100-((($item['price'])/($item['old_price']))*100));?>%</span>
+                                    </div>
+                                <?endif;?>
                             </div>
                         </div>
-                        <div class="col-md-4 product-left p-left">
-                            <div class="product-main simpleCart_shelfItem">
-                                <a href="single.html" class="mask"><img class="img-responsive zoom-img" src="images/p-2.png" alt="" /></a>
-                                <div class="product-bottom">
-                                    <h3>Smart Watches</h3>
-                                    <p>Explore Now</p>
-                                    <h4><a class="item_add" href="#"><i></i></a> <span class=" item_price">$ 329</span></h4>
-                                </div>
-                                <div class="srch">
-                                    <span>-50%</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 product-left p-left">
-                            <div class="product-main simpleCart_shelfItem">
-                                <a href="single.html" class="mask"><img class="img-responsive zoom-img" src="images/p-3.png" alt="" /></a>
-                                <div class="product-bottom">
-                                    <h3>Smart Watches</h3>
-                                    <p>Explore Now</p>
-                                    <h4><a class="item_add" href="#"><i></i></a> <span class=" item_price">$ 329</span></h4>
-                                </div>
-                                <div class="srch">
-                                    <span>-50%</span>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="clearfix"></div>
                     </div>
+                    <?endforeach;?>
+                    <div class="clearfix"></div>
                 </div>
+                <?endif;?>
+
+                <?if($recentlyViewed):?>
+                <div class="recentlyViewed">
+                    <h3>Recently viewed</h3>
+                    <?foreach($recentlyViewed as $item):?>
+                        <div class="product-one">
+                            <div class="col-md-4 product-left p-left">
+                                <div class="product-main simpleCart_shelfItem">
+                                    <a href="single.html" class="mask"><img class="img-responsive zoom-img" src="images/<?=$item['img'];?>" alt="" /></a>
+                                    <div class="product-bottom">
+                                        <h3><a href="product/<?=$item['alias'];?>"><?=$item['title'];?></a></h3>
+                                        <p>Explore Now</p>
+                                        <h4><a class="item_add add-to-cart-link" href="cart/add?id=<?=$item['id'];?>" data-id="<?=$item['id'];?>"><i></i></a> <span class=" item_price"><?=$curr['symbol_left'].' ';?><?=$item['price'] * $curr['value'];?><?=' '.$curr['symbol_right'];?></span></h4>
+                                    </div>
+                                    <?if($item['old_price']):?>
+                                        <div class="srch">
+                                            <span>-<?=round(100-((($item['price'])/($item['old_price']))*100));?>%</span>
+                                        </div>
+                                    <?endif;?>
+                                </div>
+                            </div>
+                        </div>
+                    <?endforeach;?>
+                </div>
+                <?endif;?>
             </div>
             <div class="col-md-3 single-right">
                 <div class="w_sidebar">

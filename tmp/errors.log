@@ -724,3 +724,49 @@
 =================
 [2018-11-16 20:08:59] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
+[2018-11-16 20:12:34] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2018-11-16 20:12:47] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2018-11-16 21:10:47] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2018-11-18 14:15:28] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2018-11-18 14:20:32] Текст ошибки: Контроллер app\controllers\CartController не найден | Файл: W:\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2018-11-18 14:23:23] Текст ошибки: syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) | Файл: W:\domains\ishop.loc\app\views\product\view.php | Строка: 239
+=================
+[2018-11-18 14:44:51] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2018-11-18 14:44:51] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2018-11-18 16:25:27] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2018-11-18 16:25:40] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2018-11-18 16:25:41] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2018-11-18 16:25:41] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2018-11-18 18:14:53] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2018-11-19 16:03:04] Текст ошибки: syntax error, unexpected '}' | Файл: W:\domains\ishop.loc\app\models\Breadcrumbs.php | Строка: 20
+=================
+[2018-11-19 16:03:05] Текст ошибки: syntax error, unexpected '}' | Файл: W:\domains\ishop.loc\app\models\Breadcrumbs.php | Строка: 20
+=================
+[2018-11-19 16:03:17] Текст ошибки: syntax error, unexpected '}' | Файл: W:\domains\ishop.loc\app\models\Breadcrumbs.php | Строка: 20
+=================
+[2018-11-19 16:03:18] Текст ошибки: syntax error, unexpected '}' | Файл: W:\domains\ishop.loc\app\models\Breadcrumbs.php | Строка: 20
+=================
+[2018-11-19 16:08:23] Текст ошибки: syntax error, unexpected '}' | Файл: W:\domains\ishop.loc\app\models\Breadcrumbs.php | Строка: 27
+=================
+[2018-11-19 16:08:24] Текст ошибки: syntax error, unexpected '}' | Файл: W:\domains\ishop.loc\app\models\Breadcrumbs.php | Строка: 27
+=================
+[2018-11-19 16:08:24] Текст ошибки: syntax error, unexpected '}' | Файл: W:\domains\ishop.loc\app\models\Breadcrumbs.php | Строка: 27
+=================
+[2018-11-19 16:08:25] Текст ошибки: syntax error, unexpected '}' | Файл: W:\domains\ishop.loc\app\models\Breadcrumbs.php | Строка: 27
+=================
+[2018-11-19 16:08:42] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: W:\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2018-11-19 20:28:15] Текст ошибки: Страница не найдена | Файл: W:\domains\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
